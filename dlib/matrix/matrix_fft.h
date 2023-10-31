@@ -5,6 +5,7 @@
 
 #include "matrix_fft_abstract.h"
 #include "matrix_utilities.h"
+#include <type_traits>
 #include "../hash.h"
 #include "../algs.h"
 #include "../math.h"

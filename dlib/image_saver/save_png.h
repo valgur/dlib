@@ -7,6 +7,7 @@
 #include <string>
 #include <fstream>
 #include <functional>
+#include <type_traits>
 #include "save_png_abstract.h"
 #include "image_saver.h"
 #include "../array2d.h"

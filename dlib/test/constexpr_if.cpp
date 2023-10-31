@@ -5,6 +5,7 @@
 #include <dlib/constexpr_if.h>
 #include <dlib/functional.h>
 #include <cstdio>
+#include <type_traits>
 #include "tester.h"
 
 namespace

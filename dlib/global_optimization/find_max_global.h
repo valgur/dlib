@@ -11,6 +11,7 @@
 #include <memory>
 #include <thread>
 #include <functional>
+#include <type_traits>
 #include "../threads/thread_pool_extension.h"
 #include "../statistics/statistics.h"
 #include "../enable_if.h"

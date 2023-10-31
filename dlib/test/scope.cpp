@@ -3,6 +3,7 @@
 
 #include <cstdlib>
 #include <cstring>
+#include <type_traits>
 #include <dlib/scope.h>
 #include "tester.h"
 

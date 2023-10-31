@@ -4,6 +4,7 @@
 #include <memory>
 #include <array>
 #include <tuple>
+#include <type_traits>
 #include <utility>
 #include <dlib/functional.h>
 #include "tester.h"

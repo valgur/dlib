@@ -7,6 +7,7 @@
 #include "any_decision_function.h"
 #include "any_trainer_abstract.h"
 #include <vector>
+#include <type_traits>
 
 namespace dlib
 {

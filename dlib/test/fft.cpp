@@ -6,6 +6,7 @@
 #include <string>
 #include <cstdlib>
 #include <ctime>
+#include <type_traits>
 #include <dlib/matrix.h>
 #include <dlib/rand.h>
 #include <dlib/compress_stream.h>

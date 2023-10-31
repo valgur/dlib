@@ -8,6 +8,7 @@
 #include <typeindex>
 #include <new>
 #include <memory>
+#include <type_traits>
 #include "../assert.h"
 
 namespace dlib

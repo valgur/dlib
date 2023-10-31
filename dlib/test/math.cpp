@@ -1,4 +1,5 @@
 #include <dlib/math.h>
+#include <type_traits>
 #include "tester.h"
 
 namespace

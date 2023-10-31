@@ -8,8 +8,8 @@
 #include "unicode_abstract.h"
 #include <string>
 #include <cstring>
-
 #include <fstream>
+#include <type_traits>
 
 namespace dlib
 {

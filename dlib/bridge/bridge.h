@@ -6,6 +6,7 @@
 #include <iostream>
 #include <memory>
 #include <string>
+#include <type_traits>
 
 #include "bridge_abstract.h"
 #include "../pipe.h"

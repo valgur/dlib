@@ -14,6 +14,7 @@
 #include "cast.h"
 
 #include <functional>
+#include <type_traits>
 
 PYBIND11_NAMESPACE_BEGIN(PYBIND11_NAMESPACE)
 

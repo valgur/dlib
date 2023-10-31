@@ -7,6 +7,7 @@
 #include "../functional.h"
 #include "any.h"
 #include "any_function_abstract.h"
+#include <type_traits>
 
 namespace dlib
 {

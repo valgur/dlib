@@ -2,6 +2,7 @@
 // License: Boost Software License   See LICENSE.txt for the full license.
 
 #include <dlib/optional.h>
+#include <type_traits>
 #include "tester.h"
 
 namespace  

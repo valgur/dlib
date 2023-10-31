@@ -16,6 +16,7 @@
 */
 
 #include "numpy.h"
+#include <type_traits>
 
 // The C4127 suppression was introduced for Eigen 3.4.0. In theory we could
 // make it version specific, or even remove it later, but considering that

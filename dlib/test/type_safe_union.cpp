@@ -6,6 +6,7 @@
 #include <string>
 #include <cstdlib>
 #include <ctime>
+#include <type_traits>
 #include <dlib/type_safe_union.h>
 
 #include "tester.h"

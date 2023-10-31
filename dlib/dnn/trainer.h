@@ -22,6 +22,7 @@
 #include <future>
 #include <exception>
 #include <mutex>
+#include <type_traits>
 #include "../dir_nav.h"
 #include "../md5.h"
 

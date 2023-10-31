@@ -11,6 +11,7 @@
 #include "../pytypes.h"
 
 #include <string>
+#include <type_traits>
 
 #ifdef __has_include
 #    if defined(PYBIND11_CPP17)

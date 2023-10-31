@@ -9,6 +9,7 @@
 
 #pragma once
 
+#include <type_traits>
 #include "common.h"
 
 PYBIND11_NAMESPACE_BEGIN(PYBIND11_NAMESPACE)

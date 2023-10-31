@@ -4,6 +4,7 @@
 #include <string>
 #include <cstdlib>
 #include <ctime>
+#include <type_traits>
 #include <dlib/pixel.h>
 #include <dlib/array2d.h>
 #include <dlib/image_transforms.h>

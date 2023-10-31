@@ -12,6 +12,7 @@
 #include "../pytypes.h"
 
 #include <exception>
+#include <type_traits>
 
 /// Tracks the `internals` and `type_info` ABI version independent of the main library version.
 ///

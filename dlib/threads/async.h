@@ -10,6 +10,7 @@
 #include "thread_pool_extension.h"
 #include <future>
 #include <functional>
+#include <type_traits>
 
 namespace dlib
 {

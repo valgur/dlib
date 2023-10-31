@@ -6,6 +6,7 @@
 #include <exception>
 #include <memory>
 #include <thread>
+#include <type_traits>
 
 #include "thread_pool_extension_abstract.h"
 #include "multithreaded_object_extension.h"

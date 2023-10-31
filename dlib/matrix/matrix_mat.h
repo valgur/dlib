@@ -5,6 +5,7 @@
 
 #include "matrix_mat_abstract.h"
 #include "../stl_checked.h"
+#include <type_traits>
 #include <vector>
 #include "matrix_op.h"
 #include "../array2d.h"

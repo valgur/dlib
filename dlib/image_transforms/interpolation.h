@@ -15,6 +15,7 @@
 #include "../image_processing/full_object_detection.h"
 #include <limits>
 #include <array>
+#include <type_traits>
 #include "../rand.h"
 
 namespace dlib

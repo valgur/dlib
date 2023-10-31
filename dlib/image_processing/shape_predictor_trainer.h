@@ -5,6 +5,7 @@
 
 #include "shape_predictor_trainer_abstract.h"
 #include "shape_predictor.h"
+#include <type_traits>
 #include "../console_progress_indicator.h"
 #include "../threads.h"
 #include "../data_io/image_dataset_metadata.h"

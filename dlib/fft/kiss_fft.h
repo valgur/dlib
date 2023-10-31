@@ -17,6 +17,7 @@
 #include <unordered_map>
 #include <mutex>
 #include <numeric>
+#include <type_traits>
 #include "fft_size.h"
 #include "../hash.h"
 #include "../assert.h"

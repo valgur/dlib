@@ -5,6 +5,7 @@
 
 #include "any_abstract.h"
 #include <memory>
+#include <type_traits>
 #include "storage.h"
 
 namespace dlib

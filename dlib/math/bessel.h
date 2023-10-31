@@ -4,6 +4,7 @@
 #define DLIB_MATH_BESSEL
 
 #include "details/bessel.h"
+#include <type_traits>
 
 namespace dlib
 {

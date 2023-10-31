@@ -12,6 +12,7 @@
 #include "pybind11.h"
 
 #include <complex>
+#include <type_traits>
 
 /// glibc defines I as a macro which breaks things, e.g., boost template names
 #ifdef I

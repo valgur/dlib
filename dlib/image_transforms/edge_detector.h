@@ -7,6 +7,7 @@
 #include "../pixel.h"
 #include "../array2d.h"
 #include "../geometry.h"
+#include <type_traits>
 #include <vector>
 #include "../image_keypoint/build_separable_poly_filters.h"
 

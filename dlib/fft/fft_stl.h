@@ -3,6 +3,7 @@
 #ifndef DLIB_FFT_STL_Hh_
 #define DLIB_FFT_STL_Hh_
 
+#include <type_traits>
 #include <vector>
 #include "fft.h"
 
